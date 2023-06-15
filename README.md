@@ -4,7 +4,7 @@ The pico has some interesting hardware modules like PIO and interpolator, with C
 
 This would allow for efficient implementation of electronic lead screw ELS, or gear hobbing controller
 
-Concept seems simple capture and count Qadrature pulses divide by ratio and genearate stepper counts
+Concept seems simple capture and count Quadrature pulses divide/multiply by ratio and genearate stepper counts
 
 Just learning as I go along, starting with the simple task of driving TouchDRO with counts for X,Y,Z
 
