@@ -1,6 +1,7 @@
 # Simple DRO with bluetooth for TouchDro
 
 The pico has some interesting hardware modules like PIO and interpolator, with CORDIC math functions in ROM
+Fractional dividers? Not sure if this could be used to generate accurate step outputs?
 
 This would allow for efficient implementation of electronic lead screw ELS, or gear hobbing controller
 
