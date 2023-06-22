@@ -20,6 +20,7 @@ https://en.wikipedia.org/wiki/CORDIC
 https://github.com/raspberrypi/pico-bootrom/blob/master/bootrom/mufplib.S
 "50 Years of CORDIC: Algorithms, Architectures, and Applications" by Meher et al., @ IEEE Transactions on Circuits and Systems Part I, Volume 56 Issue 9.
 
+https://media.unpythonic.net/emergent-files/projects/01149271333/mkstate.py
 https://github.com/raspberrypi/pico-examples
 https://gregchadwick.co.uk/blog/playing-with-the-pico-pt4/
 https://gregchadwick.co.uk/blog/playing-with-the-pico-pt2/
