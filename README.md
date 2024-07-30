@@ -51,3 +51,5 @@ https://github.com/clough42/electronic-leadscrew
 http://rysium.com/images/stories/projects/story_arduino-dro-q/download/ArduinoDRO_Tach_V6_0.ino
 
 https://github.com/stephenhouser/Arduino-DRO/blob/master/src/Arduino-DRO.ino
+
+https://github.com/prototypicall/Didge ELS
